@@ -1,6 +1,9 @@
 Tole sem spremenil za testi repo na gitu .... da vidim kako deluje
 
 
+ponovno spremenjeneo
+
+
 #!/bin/bash
 masina=$(hostname)
 
